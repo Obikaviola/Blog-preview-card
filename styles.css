@@ -44,7 +44,7 @@ body{
 
 .card{
     background-color: hsl(0, 0%, 100%);
-    max-width: 20rem;
+    max-width: 360px;
     display: flex;
     margin: 2rem 2rem 2rem 2rem;
     flex-direction: column;
